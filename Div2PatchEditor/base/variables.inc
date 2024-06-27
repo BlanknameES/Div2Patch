@@ -1,0 +1,6 @@
+ProjectName             equ 'Div2Patch'
+ProjectVersion          equ '0.97'
+ProjectLongVer          equ '0.9.7.0'
+SubProjectName          equ 'Div2PatchEditor'
+SubProjectVersion       equ '0.90b'
+SubProjectLongVer       equ '0.9.0.2'

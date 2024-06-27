@@ -1,0 +1,1 @@
+Choose the folder in which to install $(^NameDA) v${VERSION}.

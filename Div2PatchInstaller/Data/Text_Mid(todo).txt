@@ -1,0 +1,6 @@
+Setup will install $(^Name) in the following folder. To install in a different folder, click Browse and select another folder.
+
+$(^Name) is only compatible with the latest version of 'Divinity II - Developer's Cut'.
+
+The latest version, AKA 'Y-Axis Hotfix', can be downloaded from here:
+http://dl1.larianvault.com/Div2DevCut/Div2DevCut_YAxis.zip
